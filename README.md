@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Irvin</h1>
+<h2>Hi 👋, I'm Irvin</h1>
 <h3>Software Engineer · BSc Computing · Vancouver, BC</h3>
 
 - 🚀 Current Lead Engineer @ <a target="_blank" href="https://app-bar.com/">App Bar</a> & <a href="https://perksbar.com">PerksBar</a>
