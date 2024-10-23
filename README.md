@@ -2,7 +2,8 @@
 <h3>Software Engineer · BSc Computing · Vancouver, BC</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lauirvin&label=Profile%20views&color=0e75b6&style=flat" alt="lauirvin" /></p>
 
-- 🚀 Current Lead Engineer @ <a target="_blank" href="https://app-bar.com/">App Bar</a> & <a href="https://perksbar.com">PerksBar</a>
+- 🚀 Current Tech Lead @ <a target="_blank" href="https://www.netskrt.io/">Netskrt</a>
+- 🥃 Ex Lead Engineer @ <a target="_blank" href="https://app-bar.com/">App Bar</a> & <a href="https://perksbar.com">PerksBar</a>
 - ⚡ Ex Software Engineer @ <a target="_blank"  href="https://binance.us/">Binance.US</a>
 - 🌱 Ex Senior Full-Stack Engineer @ <a target="_blank"  href="https://www.keyteo.com">KEYTEO</a>
 - 🐥 React/React-Native Fanboy
